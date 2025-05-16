@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ejercicio2.unity
     guid: 3f332f7163f5992478b4cf25837845ce
+  - enabled: 1
+    path: Assets/Scenes/Ejercicio3.unity
+    guid: 70c2dd0659a929d40856317b8591b5a1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ab184234e35b50644a827015ceef3cb3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
