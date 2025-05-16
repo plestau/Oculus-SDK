@@ -3630,6 +3630,10 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 559559071310038348, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
+      propertyPath: m_text
+      value: Tijeras
+      objectReference: {fileID: 0}
+    - target: {fileID: 559559071310038348, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
       objectReference: {fileID: 0}
@@ -3916,6 +3920,10 @@ PrefabInstance:
     - target: {fileID: 1960418985424700863, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
       propertyPath: m_Layer
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992414271959926624, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
+      propertyPath: m_text
+      value: Papel
       objectReference: {fileID: 0}
     - target: {fileID: 1992414271959926624, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
@@ -5240,6 +5248,10 @@ PrefabInstance:
     - target: {fileID: 3832444173918598844, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
       propertyPath: m_Layer
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3890688959075655833, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
+      propertyPath: m_text
+      value: Piedra
       objectReference: {fileID: 0}
     - target: {fileID: 3890688959075655833, guid: a823fe55a7107c04abd21f4ede9425b3, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
@@ -21193,7 +21205,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4637090283671048175, guid: a8764922f3a9e1740b79346543e14f83, type: 3}
       propertyPath: m_text
-      value: Scissors
+      value: Conejo
       objectReference: {fileID: 0}
     - target: {fileID: 4637090283671048175, guid: a8764922f3a9e1740b79346543e14f83, type: 3}
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
